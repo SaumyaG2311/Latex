@@ -1,0 +1,16 @@
+%Date:
+dd month year
+%Subject:
+Subject: balh....
+%Points:
+No-of-points
+%Name:
+Workshop-name
+%Stime:
+Start-time
+%Etime:
+End-time
+%Namme:
+sign-off
+%Post:
+post

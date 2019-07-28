@@ -1,0 +1,14 @@
+%Date:
+dd month year
+%Subject:
+Subject: balh....
+%Name:
+Workshop-name
+%Stime:
+Start-time
+%Etime:
+End-time
+%Namme:
+sign-off
+%Post:
+post
